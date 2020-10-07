@@ -51,6 +51,7 @@ body {
 /*  ======== HEADER ========  */
 
 .header {
+  width: 1600px;
   background: #ffffff;
 }
 
@@ -130,6 +131,7 @@ body {
 /*  ======== order servies container ========  */
 
 .order-sevies-container {
+  width: 1600px;
   background: #2f303a;
   height: 600px;
 }
