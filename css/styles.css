@@ -166,7 +166,6 @@ body {
   font-size: 16px;
   line-height: 1.875;
   border: 0px;
-
   /* identical to box height, or 187% */
 
   display: flex;
@@ -185,8 +184,8 @@ body {
 /*  ======== what do we do container ========  */
 
 .dowedo-container {
+  width: 1600px;
   background: white;
-  width: 1170px;
 }
 
 .dowedo-list {
@@ -309,6 +308,7 @@ body {
 /*  ======== PORTFOLIO container ========  */
 
 .portfolio-container {
+  width: 1600px;
   background: #e5e5e5;
 }
 
