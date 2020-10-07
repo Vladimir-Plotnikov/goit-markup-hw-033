@@ -19,8 +19,8 @@ body {
 
 .main-div-container {
   width: 1170px;
-  margin-left: 215px;
-  margin-right: 215px;
+  padding-left: 215px;
+  padding-right: 215px;
 }
 
 .list {
